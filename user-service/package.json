@@ -1,0 +1,14 @@
+{
+    "name": "user-service",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "mongoose": "^5.11.15",
+      "ejs": "^3.1.9",
+      "body-parser": "^1.20.2"
+    }
+  }
